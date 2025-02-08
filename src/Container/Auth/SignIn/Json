@@ -1,0 +1,205 @@
+//Algebra
+{
+    "questions": [
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "A letter (or shape) that represents a number.",
+            "Options_En": [
+                "Variable",
+                " Element",
+                "Equation",
+                " Solution"
+            ],
+            "CorrectOption_En": "Variable",
+            "Question_Hi": "एक अक्षर (या आकार) जो एक संख्या को प्रतिष्ठित करता है।",
+            "Options_Hi": [
+                "परिवर्तनशील",
+                "तत्व",
+                "समीकरण",
+                "समाधान"
+            ],
+            "CorrectOption_Hi": "परिवर्तनशील"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "All the numbers that can be found on a number line.",
+            "Options_En": [
+                "Real numbers",
+                "Whole numbers",
+                "Digits",
+                "Data"
+            ],
+            "CorrectOption_En": "Real numbers",
+            "Question_Hi": "सभी नंबर जो एक नंबर रेखा पर पाए जा सकते हैं।",
+            "Options_Hi": [
+                "वास्तविक संख्याएँ",
+                "पूर्ण संख्याएँ",
+                "अंक",
+                "डेटा"
+            ],
+            "CorrectOption_Hi": "वास्तविक संख्याएँ"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "An equation that is true for all values of a variable.",
+            "Options_En": [
+                "Variable",
+                "Solution",
+                "Identity",
+                "Impossible"
+            ],
+            "CorrectOption_En": "Identity",
+            "Question_Hi": "एक समीकरण जो एक परिवर्तनशील के सभी मानों के लिए सत्य होता है।",
+            "Options_Hi": [
+                "परिवर्तनशील",
+                "समाधान",
+                "पहचान",
+                "असंभव"
+              ],
+              "CorrectOption_Hi": "पहचान"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": " On a coordinate plane, the point a line crosses the y-axis.",
+            "Options_En": [
+                "origin",
+                "y-intersect point",
+                "x-intersect point",
+                "x-axis"
+            ],
+            "CorrectOption_En": "y-intersect point",           
+            "Question_Hi": "एक समन्वय समतल पर, रेखा जो y-अक्ष को काटती है उस बिंदु को कहते हैं।",
+            "Options_Hi": [
+            "मूल",
+            "y-संक्षेप बिंदु",
+            "x-संक्षेप बिंदु",
+            "x-अक्ष"
+            ],
+            "CorrectOption_Hi": "y-संक्षेप बिंदु"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "A line that most closely describes the relationship between points on a 'scatter plot'.",
+            "Options_En": [
+                "slope",
+                "slope-intercept form",
+                "best-line fitting",
+                "correlation"
+            ],
+            "CorrectOption_En": "best-line fitting",
+            "Question_Hi": "'स्कैटर प्लॉट' पर बिंदुओं के बीच संबंध का सबसे सटीक रूप से वर्णन करने वाली एक रेखा।",
+            "Options_Hi": [
+            "ढाल",
+            "ढाल-छेद रूप",
+            "सर्वश्रेष्ठ रेखा समायोजन",
+            "सह-संबंध"
+            ],
+            "CorrectOption_Hi": "सर्वश्रेष्ठ रेखा समायोजन"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "The value that represents the middle of a set of values (50% greater than the value and 50% less than the value)",
+            "Options_En": [
+                "median",
+                "mode",
+                "mean",
+                "range"
+            ],
+            "CorrectOption_En": "median",          
+            "Question_Hi": "विभाजन में मध्य मान को प्रतिष्ठित करने वाला मान (मूल्य से 50% अधिक और मूल्य से 50% कम)",
+            "Options_Hi": [
+            "माध्यिक",
+            "मोड",
+            "औसत",
+            "सीमा"
+            ],
+            "CorrectOption_Hi": "माध्यिक"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": " The number of solutions for a system of linear equations (two or more related equations)",
+            "Options_En": [
+                "0",
+                "an infinite number",
+                "1",
+                "All of these answer are possible"
+            ],
+            "CorrectOption_En": "All of these answers are possible",
+            "Question_Hi": "समान्य रूप में उपयोग होने वाले रैखिक समीकरणों (दो या अधिक संबंधित समीकरणों) के लिए समाधानों की संख्या।",
+            "Options_Hi": [
+                "0"
+                "असीमित संख्या",
+                "1",
+                "इन सभी उत्तरों का संभव होना"
+              ],
+              "CorrectOption_Hi": "इन सभी उत्तरों का संभव होना"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "You deposit $1000 in the bank at 4% compounded daily for 5 years. Mathematically, what do you call the '4%'?",
+            "Options_En": [
+                "Profit",
+                "Growth Factor",
+                "Growth Rate",
+                "Interest"
+            ],
+            "CorrectOption_En": "Growth Rate",
+            "Question_Hi": "आप 5 वर्षों के लिए दैनिक रूप से ब्याज बदलते हुए बैंक में $1000 जमा करते हैं। गणितीय रूप से, आप '4%' को क्या कहते हैं?",
+            "Options_Hi": [
+            "लाभ",
+            "वृद्धि का कारक",
+            "वृद्धि दर",
+            "ब्याज"
+            ],
+            "CorrectOption_Hi": "वृद्धि दर"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "The graph of a quadratic function.",
+            "Options_En": [
+                "quadratic formula",
+                "hyberbola",
+                "parabola",
+                "square root"
+            ],
+            "CorrectOption_En": "parabola",
+            "Question_Hi": "एक द्विघातीय समीकरण का ग्राफ।",
+            "Options_Hi": [
+            "द्विघाती सूत्र",
+            "हाइपरबोला",
+            "पराबोला",
+            "वर्गमूल"
+            ],
+            "CorrectOption_Hi": "पराबोला"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jDsKK1fqRKeT5Ab0yfGv",
+            "Question_En": "What is the objective of chess?",
+            "Options_En": [
+                "both binomials and trnomials",
+                "binomial",
+                "None of these",
+                "trinomial"
+            ],
+            "CorrectOption_En": "Both binomials and trinomials",
+            "Question_Hi": "शतरंज का उद्देश्य क्या है?",
+            "Options_Hi": [
+            "द्विपदी और त्रिपदी दोनों",
+            "द्विपदी",
+            "इनमें से कोई नहीं",
+            "त्रिपदी"
+            ],
+            "CorrectOption_Hi": "द्विपदी और त्रिपदी दोनों"
+        }
+    ]
+}

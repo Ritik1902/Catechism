@@ -1,0 +1,205 @@
+//Comedy 
+{
+    "questions": [
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Who is widely regarded as the 'King of Comedy'?",
+            "Options_En": [
+                "Charlie Chaplin",
+                "Jim Carrey",
+                "Jerry Seinfeld", 
+                "Kevin Hart"
+            ],
+            "CorrectOption_En": "Charlie Chaplin",
+            "Question_Hi": "कौन व्यापक रूप से 'कॉमेडी के राजा' के रूप में मान्यता प्राप्त करता है?",
+            "Options_Hi": [
+                "चार्ली चैप्लिन",
+                "जिम कैरी",
+                "जेरी साइंफेल्ड",
+                "केविन हार्ट"
+            ],
+            "CorrectOption_Hi": "चार्ली चैप्लिन"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which comedy film features the characters Harry and Lloyd?"
+            "Options_En": [
+                "Dumb and Dumber", 
+                "Anchorman", 
+                "The Hangover", 
+                "Superbad"
+            ],
+            "CorrectOption_En": "Dumb and Dumber",
+            "Question_Hi": "कौनसी कॉमेडी फिल्म में हैरी और ल्लॉयड के किरदार शामिल हैं?",
+            "Options_Hi": [
+                "डम्ब एंड डंबर",
+                "एंकरमैन",
+                "द हैंगोवर",
+                "सुपरबैड"
+            ],
+            "CorrectOption_Hi": "डम्ब एंड डंबर"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which TV show is known for its mockumentary style and follows the lives of the employees at Dunder Mifflin?",
+            "Options_En": [
+                "The Office (US)", 
+                "Parks and Recreation", 
+                "Brooklyn Nine-Nine", 
+                "Friends"
+            ],
+            "CorrectOption_En": "The Office (US)",
+            "Question_Hi": "कौनसा टीवी शो मॉक्यूमेंटरी स्टाइल के लिए जाना जाता है और डंडर मिफ्लिन के कर्मचारियों के जीवन का पीछा करता है?",
+            "Options_Hi": [
+                "द ऑफिस (यूएस)",
+                "पार्क्स एंड रेक्रिएशन",
+                "ब्रुकलिन नाइन-नाइन",
+                "फ्रेंड्स"
+            ],
+            "CorrectOption_Hi": "द ऑफिस (यूएस)"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Who is the creator and star of the TV show Seinfeld?",
+            "Options_En": [
+                "Larry David", 
+                "Jerry Seinfeld", 
+                "Tina Fey", 
+                "Amy Poehler"
+            ],
+            "CorrectOption_En": "Jerry Seinfeld",
+            "Question_Hi": "टीवी शो साइनफेल्ड के सृजनकर्ता और मुख्य कलाकार कौन हैं?",
+            "Options_Hi": [
+                "लैरी डेविड",
+                "जेरी साइनफेल्ड",
+                "टीना फे",
+                "एमी पोहलर"
+            ],
+            "CorrectOption_Hi": "जेरी साइनफेल्ड"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which comedian is known for his 'You might be a redneck' jokes?",
+            "Options_En": [
+                "Jeff Foxworthy", 
+                "Kevin Hart", 
+                "Dave Chappelle", 
+                "Eddie Murphy"
+            ],
+            "CorrectOption_En": "Jeff Foxworthy",           
+            "Question_Hi": "कौन संतानी किसान की विशेषता के चुटकुलों के लिए जाना जाता है?",
+            "Options_Hi": [
+                "जेफ फॉक्सवर्थी",
+                "केविन हार्ट",
+                "डेव चपेल",
+                "एडी मर्फी"
+            ],
+            "CorrectOption_Hi": "जेफ फॉक्सवर्थी"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which British comedy troupe is known for their sketch comedy show Monty Python's Flying Circus?",
+            "Options_En": [
+                "The Beatles", 
+                "The Rolling Stones", 
+                "Monty Python", 
+                "Pink Floyd"
+            ],
+            "CorrectOption_En": "Monty Python",
+            "Question_Hi": "किस ब्रिटिश कॉमेडी ट्रूप को उनकी स्केच कॉमेडी शो Monty Python's Flying Circus के लिए जाना जाता है?",
+            "Options_Hi": [
+                "द बीटल्स",
+                "द रोलिंग स्टोन्स",
+                "मॉन्टी पाइथन",
+                "पिंक फ्लॉयड"
+            ],
+            "CorrectOption_Hi": "मॉन्टी पाइथन"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Who directed the films The Big Lebowski, Fargo, and No Country for Old Men?",
+            "Options_En": [
+                "Judd Apatow", 
+                "Wes Anderson", 
+                "Coen brothers", 
+                "Adam McKay"
+            ],
+            "CorrectOption_En": "Coen brothers",            
+            "Question_Hi": "फिल्मों The Big Lebowski, Fargo, और No Country for Old Men के निर्देशक कौन हैं?",
+            "Options_Hi": [
+                "जुड एपटो",
+                "वेस एंडरसन",
+                "कोएन ब्रदर्स",
+                "एडम म्के"
+            ],
+            "CorrectOption_Hi": "कोएन ब्रदर्स"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which comedian is known for his observational humor and the 'Hot Pockets' routine?",
+            "Options_En": [
+                "Louis C.K.", 
+                "Chris Rock", 
+                "John Mulaney", 
+                "Jim Gaffigan"
+            ],
+            "CorrectOption_En": "Jim Gaffigan",                        
+            "Question_Hi": "कौन संताना की हास्य और 'हॉट पॉकेट्स' रूटीन के लिए जाना जाता है?",
+            "Options_Hi": [
+                "लुईस सी.के.",
+                "क्रिस रॉक",
+                "जॉन मुलानी",
+                "जिम गैफिगन"
+            ],
+            "CorrectOption_Hi": "जिम गैफिगन"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which comedy duo was known for their slapstick comedy in films like The Flying Deuces and Sons of the Desert?",
+            "Options_En": [
+                "Laurel and Hardy", 
+                "Abbott and Costello", 
+                "The Marx Brothers", 
+                "The Three Stooges"
+            ],
+            "CorrectOption_En": " Laurel and Hardy",           
+            "Question_Hi": "कौन संगीत की दोस्ती अब प्रसिद्ध हो गई थी फिल्मों में उनके फ्लाइंग डियूसेज़ और सन्स ऑफ द डेज़र्ट के माध्यम से?",
+            "Options_Hi": [
+                "लॉरेल और हार्डी",
+                "अब्बॉट और कॉस्टेलो",
+                "द मार्क्स ब्रदर्स",
+                "द थ्री स्टूज़स"
+            ],
+            "CorrectOption_Hi": "लॉरेल और हार्डी"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id": "O59Vg7SBMO2TRokRUs6h",
+            "Question_En": "Which TV show follows the lives of six friends living in New York City?",
+            "Options_En": [
+                "Friends", 
+                "How I Met Your Mother", 
+                "The Big Bang Theory", 
+                "The Office (US)"
+            ],
+            "CorrectOption_En": "Friends",
+            "Question_Hi": "कौन सा टीवी शो न्यूयॉर्क सिटी में रहने वाले छह दोस्तों के जीवन की कहानी को दिखाता है?",
+            "Options_Hi": [
+                "फ्रेंड्स",
+                "हाउ आई मेट योर मदर",
+                "द बिग बैंग थ्योरी",
+                "द ऑफिस (यूएस)"
+            ],
+            "CorrectOption_Hi": "फ्रेंड्स"
+        }
+    ]
+}

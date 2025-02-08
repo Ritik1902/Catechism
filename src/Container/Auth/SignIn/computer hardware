@@ -1,0 +1,105 @@
+//Computer hardware
+{
+    "questions": [
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "What is the primary function of a CPU (Central Processing Unit)?",
+            "Options_En": ["Storage", "Processing data", "Display output", "Connect to the internet"],
+            "CorrectOption_En": "Processing data"
+            "Question_Hi": "सीपीयू (केंद्रीय प्रसंस्करण यूनिट) की प्राथमिकता क्या है?",
+            "Options_Hi": ["संग्रहण", "डेटा का प्रोसेस करना", "आउटपुट प्रदर्शित करना", "इंटरनेट से कनेक्ट करना"],
+            "CorrectOption_Hi": "डेटा का प्रोसेस करना"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "What is the purpose of a motherboard in a computer system?",
+            "Options_En": ["Process data", "Store data", "Provide power", "Connect all components"],
+            "CorrectOption_En": "Connect all components"
+            "Question_Hi": "कंप्यूटर सिस्टम में मदरबोर्ड का क्या उद्देश्य होता है?",
+            "Options_Hi": ["डेटा को प्रोसेस करना", "डेटा को संग्रहित करना", "पावर प्रदान करना", "सभी कॉम्पोनेंट्स को कनेक्ट करना"],
+            "CorrectOption_Hi": "सभी कॉम्पोनेंट्स को कनेक्ट करना"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "Which type of memory is non-volatile and retains data even when the power is turned off?",
+            "Options_En": ["RAM", "Cache", "ROM", "Registers"],
+            "CorrectOption_En": "ROM"
+            "Question_Hi": "कौन सी प्रकार की मेमोरी गैर-आवोलेटिल होती है और जब बिजली बंद की जाती है तो भी डेटा संचित रहता है?",
+            "Options_Hi": ["रैम", "कैश", "आरओएम", "रजिस्टर"],
+            "CorrectOption_Hi": "आरओएम"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "What does the acronym GPU stand for?",
+            "Options_En": ["Graphical Performance Unit", "Graphics Processing Unit", "General Processing Unit", "Graphical Processing Unit"],
+            "CorrectOption_En": "Graphics Processing Unit"
+            "Question_Hi": "GPU शब्दावली का अर्थ क्या है?",
+            "Options_Hi": ["ग्राफिकल प्रदर्शन इकाई", "ग्राफिक्स प्रोसेसिंग इकाई", "सामान्य प्रोसेसिंग इकाई", "ग्राफिकल प्रोसेसिंग इकाई"],
+            "CorrectOption_Hi": "ग्राफिक्स प्रोसेसिंग इकाई"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "Which type of memory is the fastest but also the smallest in capacity?",
+            "Options_En": ["Hard Drive", "SSD", "Cache", "RAM"],
+            "CorrectOption_En": "Cache"           
+            "Question_Hi": "कौन सा प्रकार का मेमोरी सबसे तेज होता है लेकिन क्षमता में सबसे छोटा होता है?",
+            "Options_Hi": ["हार्ड ड्राइव", "एसएसडी", "कैश", "रैम"],
+            "CorrectOption_Hi": "कैश"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "Which component of a computer is responsible for providing temporary storage for data that the CPU is currently working on?",
+            "Options_En": ["RAM", "Hard Drive", "Motherboard", "Power Supply Unit"],
+            "CorrectOption_En": "RAM"
+            "Question_Hi": "कंप्यूटर का कौन सा घटक उस समय की अस्थायी भंडारण प्रदान करता है जब कंप्यूटर का सीपीयू उस पर काम कर रहा होता है?",
+            "Options_Hi": ["रैम", "हार्ड ड्राइव", "मदरबोर्ड", "पावर सप्लाई यूनिट"],
+            "CorrectOption_Hi": "रैम"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "Which type of storage device uses flash memory and has no moving parts?",
+            "Options_En": ["Hard Drive", "SSD", "RAM", "CPU"],
+            "CorrectOption_En": "SSD"
+            "Question_Hi": "किस प्रकार के स्टोरेज उपकरण में फ्लैश मेमोरी का उपयोग किया जाता है और जिसमें कोई चलते हुए भाग नहीं होते हैं?",
+            "Options_Hi": ["हार्ड ड्राइव", "एसएसडी", "रैम", "सीपीयू"],
+            "CorrectOption_Hi": "एसएसडी"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "Which component of a computer is responsible for providing audio output?",
+            "Options_En": ["Hard Drive", "Speakers", "Motherboard", "Keyboard"],
+            "CorrectOption_En": "Speakers"            
+            "Question_Hi": "कंप्यूटर का कौन सा घटक ऑडियो आउटपुट प्रदान करने के लिए जिम्मेदार है?",
+            "Options_Hi": ["हार्ड ड्राइव", "स्पीकर्स", "मदरबोर्ड", "कीबोर्ड"],
+            "CorrectOption_Hi": "स्पीकर्स"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "What is the purpose of a network interface card (NIC) in a computer?",
+            "Options_En": ["Store data", "Process data", "Connect to the internet", "Display output"],
+            "CorrectOption_En": "Connect to the internet"           
+            "Question_Hi": "कंप्यूटर में नेटवर्क इंटरफेस कार्ड (NIC) का उद्देश्य क्या होता है?",
+            "Options_Hi": ["डेटा संग्रहित करना", "डेटा प्रोसेस करना", "इंटरनेट से कनेक्ट करना", "आउटपुट प्रदर्शित करना"],
+            "CorrectOption_Hi": "इंटरनेट से कनेक्ट करना"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "xFU5ouVOCm25En2ypVB3",
+            "Question_En": "What does RAM stand for?",
+            "Options_En": ["Random Access Memory", "Read-Only Memory", "Random Allocation Memory", "Remote Access Module"],
+            "CorrectOption_En": "Random Access Memory"
+            "Question_Hi": "RAM का मतलब क्या होता है?",
+            "Options_Hi": ["रैंडम एक्सेस मेमोरी", "रीड-ओनली मेमोरी", "रैंडम आवंटन मेमोरी", "रिमोट एक्सेस मॉड्यूल"],
+            "CorrectOption_Hi": "रैंडम एक्सेस मेमोरी"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+//Mobile
+{
+    "questions": [
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the operating system used by iPhones?",
+            "Options_En": [
+                "Android",
+                "iOS",
+                "Windows Mobile",
+                "BlackBerry OS"
+            ],
+            "CorrectOption_En": "iOS",
+            "Question_Hi": "आईफ़ोन में कौन सा ऑपरेटिंग सिस्टम उपयोग किया जाता है?",
+            "Options_Hi": [
+            "एंड्रॉइड",
+            "आईओएस",
+            "विंडोज मोबाइल",
+            "ब्लैकबेरी ओएस"
+            ],
+            "CorrectOption_Hi": "आईओएस"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the purpose of NFC (Near Field Communication) in mobile devices?",
+            "Options_En": [
+                "Wireless charging"
+                "Secure mobile payments",
+                "Faster data transfer",
+                "GPS navigation",
+            ],
+            "CorrectOption_En": "Secure mobile payments",
+            "Question_Hi": "मोबाइल डिवाइस में NFC (नियर फ़ील्ड संचार) का उद्देश्य क्या है?",
+            "Options_Hi": [
+            "वायरलेस चार्जिंग",
+            "सुरक्षित मोबाइल भुगतान",
+            "तेज़ डेटा संचार",
+            "जीपीएस नेविगेशन"
+            ],
+            "CorrectOption_Hi": "सुरक्षित मोबाइल भुगतान"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "Which wireless technology is used for mobile communication?",
+            "Options_En": [
+                "Bluetooth",
+                "Wi-Fi",
+                "4G/LTE",
+                "All of the above"
+            ],
+            "CorrectOption_En": "All of the above",
+            "Question_Hi": "मोबाइल संचार के लिए कौन सी वायरलेस तकनीक का उपयोग किया जाता है?",
+            "Options_Hi": [
+            "ब्लूटूथ",
+            "वाई-फाई",
+            "4जी/एलटीई",
+            "उपरोक्त सभी"
+            ],
+            "CorrectOption_Hi": "उपरोक्त सभी"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the maximum number of SIM cards that can be inserted into a dual SIM phone?",
+            "Options_En": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "CorrectOption_En": "2",
+            "Question_Hi": "एक ड्यूल सिम फोन में कितने अधिकतम सिम कार्ड डाले जा सकते हैं?",
+            "Options_Hi": [
+            "1",
+            "2",
+            "3",
+            "4"
+            ],
+            "CorrectOption_Hi": "2"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the purpose of an accelerometer in a mobile device?",
+            "Options_En": [
+                "Measure heart rate",
+                "Track location",
+                "Sense device orientation and motion",
+                "Scan fingerprints"
+            ],
+            "CorrectOption_En": "Sense device orientation and motion",            
+            "Question_Hi": "मोबाइल डिवाइस में एक एक्सेलेरोमीटर का उद्देश्य क्या होता है?",
+            "Options_Hi": [
+            "हृदय दर का मापन करना",
+            "स्थान का पता लगाना",
+            "उपकरण की ओरिएंटेशन और गति को महसूस करना",
+            "उंगलियों को स्कैन करना"
+            ],
+            "CorrectOption_Hi": "उपकरण की ओरिएंटेशन और गति को महसूस करना"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the resolution of a Full HD display?",
+            "Options_En": [
+                "720p",
+                "1080p",
+                "1140p",
+                "4k"
+            ],
+            "CorrectOption_En": "1080p",
+            "Question_Hi": "फुल एचडी डिस्प्ले का संकल्प क्या होता है?",
+            "Options_Hi": [
+            "720p",
+            "1080p",
+            "1140p",
+            "4k"
+            ],
+            "CorrectOption_Hi": "1080p"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "Which mobile network technology provides the fastest data speeds?",
+            "Options_En": [
+                "2G",
+                "3G",
+                "4G/LTE",
+                "5G"
+            ],
+            "CorrectOption_En": "5G",
+            "Question_Hi": "कौनसी मोबाइल नेटवर्क तकनीक सबसे तेज़ डेटा स्पीड प्रदान करती है?",
+            "Options_Hi": [
+            "2जी",
+            "3जी",
+            "4जी/एलटीई",
+            "5जी"
+            ],
+            "CorrectOption_Hi": "5जी"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What is the purpose of a mobile app store?",
+            "Options_En": [
+                "Download and install apps",
+                "Play mobile games",
+                "Watch movies and TV shows",
+                "All of the above"
+            ],
+            "CorrectOption_En": "Download and install apps",            
+            "Question_Hi": "मोबाइल ऐप स्टोर का उद्देश्य क्या होता है?",
+            "Options_Hi": [
+            "ऐप्स डाउनलोड और स्थापित करना",
+            "मोबाइल गेम खेलना",
+            "मूवीज और टीवी शो देखना",
+            "उपरोक्त सभी"
+            ],
+            "CorrectOption_Hi": "ऐप्स डाउनलोड और स्थापित करना"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "What does GPS stand for?",
+            "Options_En": [
+                "Global Personal System",
+                "Global Positioning System",
+                "General Purpose System",
+                "Global Protection System"
+            ],
+            "CorrectOption_En": "Global Positioning System",           
+            "Question_Hi": "GPS का पूर्ण रूप क्या होता है?",
+            "Options_Hi": [
+                "ग्लोबल पर्सनल सिस्टम",
+                "ग्लोबल पोजीशनिंग सिस्टम",
+                "जनरल पर्पज सिस्टम",
+                "ग्लोबल प्रोटेक्शन सिस्टम"
+            ],
+            "CorrectOption_Hi": "ग्लोबल पोजीशनिंग सिस्टम"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "hUcv1oLM0NIpSUuEyinC",
+            "Question_En": "Which mobile technology allows wireless communication over short distances?",
+            "Options_En": [
+                "GPS",
+                "NFC",
+                "Bluetooth",
+                "Wi-Fi"
+            ],
+            "CorrectOption_En": "Bluetooth",
+            "Question_Hi": "कौन सी मोबाइल तकनीक छोटी दूरी पर वायरलेस संचार की अनुमति देती है?",
+            "Options_Hi": [
+            "जीपीएस",
+            "एनएफसी",
+            "ब्लूटूथ",
+            "वाई-फाई"
+            ],
+            "CorrectOption_Hi": "ब्लूटूथ"
+        }
+    ]
+}

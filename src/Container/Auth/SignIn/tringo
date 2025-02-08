@@ -1,0 +1,207 @@
+//trigonometric
+{
+    "questions": [
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of tan(45°)?",
+            "Options_En": [
+                "1",
+                "0.5",
+                " √2",
+                "2"
+            ],
+            "CorrectOption_En": "1",            
+            "Question_Hi": "tan(45°) का मान क्या है?",
+            "Options_Hi": [
+            "1",
+            "0.5",
+            "√2",
+            "2"
+            ],
+            "CorrectOption_Hi": "1"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of sin(90°)?",
+            "Options_En": [
+                "1",
+                "0.5",
+                "0",
+                "-1"
+            ],
+            "CorrectOption_En": "1",            
+            "Question_Hi": "sin(90°) का मान क्या है?",
+            "Options_Hi": [
+            "1",
+            "0.5",
+            "0",
+            "-1"
+            ],
+            "CorrectOption_Hi": "1"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "Which of the following is equivalent to cos(180°)?",
+            "Options_En": [
+                "0",
+                "1",
+                "-1",
+                "Undefined"
+            ],
+            "CorrectOption_En": "-1",
+            "Question_Hi": "निम्नलिखित में से कौन सा cos(180°) के बराबर है?",
+            "Options_Hi": [
+            "0",
+            "1",
+            "-1",
+            "अपरिभाषित"
+            ],
+            "CorrectOption_Hi": "-1"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "If sin(A) = 0.6, what is the value of cos(A)?",
+            "Options_En": [
+                "0.8",
+                "0.4",
+                "0.3",
+                "0.2"
+            ],
+            "CorrectOption_En": "0.8",
+            "Question_Hi": "यदि sin(A) = 0.6 है, तो cos(A) का मान क्या होगा?",
+            "Options_Hi": [
+            "0.8",
+            "0.4",
+            "0.3",
+            "0.2"
+            ],
+            "CorrectOption_Hi": "0.8"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of sec(30°)?",
+            "Options_En": [
+                "1/√2",
+                "1/2",
+                "√2",
+                "2"
+            ],
+            "CorrectOption_En": "2",
+            "Question_Hi": "sec(30°) का मान क्या होगा?",
+            "Options_Hi": [
+            "1/√2",
+            "1/2",
+            "√2",
+            "2"
+            ],
+            "CorrectOption_Hi": "2"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": " If tan(B) = √3, what is the value of cos(B)?",
+            "Options_En": [
+                " 1/√2",
+                "√2",
+                "1",
+                "2"
+            ],
+            "CorrectOption_En": "1",
+            "Question_Hi": "यदि tan(B) = √3 है, तो cos(B) का मान क्या होगा?",
+            "Options_Hi": [
+            "1/√2",
+            "√2",
+            "1",
+            "2"
+            ],
+            "CorrectOption_Hi": "1"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of tan(0°)?",
+            "Options_En": [
+                "0",
+                "1",
+                "Undefined",
+                "Infinity"
+            ],
+            "CorrectOption_En": "0",
+            "Question_Hi": "tan(0°) का मान क्या है?",
+            "Options_Hi": [
+                "0",
+                "1",
+                "अपरिभाषित",
+                "अनंत"
+            ],
+            "CorrectOption_Hi": "0"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "Which trigonometric function is equal to opposite/hypotenuse in a right triangle?",
+            "Options_En": [
+                "Sine",
+                "Cosine",
+                "Tangent",
+                "Cosecant"
+            ],
+            "CorrectOption_En": "Sine",
+            "Question_Hi": "एक समकोण त्रिभुज में विपरीत/हाइपोटेनुस के बराबर कौन सा त्रिकोणमितीय संचार होता है?",
+            "Options_Hi": [
+            "साइन",
+            "कोसाइन",
+            "टैंजेंट",
+            "कोसेकेंट"
+            ],
+            "CorrectOption_Hi": "साइन"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of cos(30°)?",
+            "Options_En": [
+                "√3/2",
+                " 1/√3",
+                "1/2",
+                "1/√2"
+            ],
+            "CorrectOption_En": "1/2",
+            "Question_Hi": "cos(30°) का मान क्या होगा?",
+            "Options_Hi": [
+            "√3/2",
+            "1/√3",
+            "1/2",
+            "1/√2"
+            ],
+            "CorrectOption_Hi": "1/2"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "cQgtAoJ8AnTZHlcadPsG",
+            "Question_En": "What is the value of sin(60°) + cos(60°)?",
+            "Options_En": [
+                " 1/√2",
+                "√2",
+                "1",
+                "2"
+            ],
+            "CorrectOption_En": "1",
+            "Question_Hi": "sin(60°) + cos(60°) का मान क्या होगा?",
+            "Options_Hi": [
+            "1/√2",
+            "√2",
+            "1",
+            "2"
+            ],
+            "CorrectOption_Hi": "1"
+        }
+    ]
+}
+
+

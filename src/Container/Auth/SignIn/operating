@@ -1,0 +1,105 @@
+//Operating Questions
+{
+    "questions": [
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is developed by Apple Inc.?",
+            "Options_En": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_En": "macOS"
+            "Question_Hi": "किस ऑपरेटिंग सिस्टम का विकास एप्पल इंक. द्वारा किया जाता है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_Hi": "macOS"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "What is the most widely used operating system for smartphones?",
+            "Options_En": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_En": "Android"
+            "Question_Hi": "स्मार्टफोन के लिए सबसे व्यापकता से उपयोग होने वाला ऑपरेटिंग सिस्टम कौन सा है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_Hi": "Android"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is known for its penguin mascot?",
+            "Options_En": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_En": "Linux"
+            "Question_Hi": "कौन सा ऑपरेटिंग सिस्टम अपने पेंगुइन मास्कॉट के लिए जाना जाता है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_Hi": "Linux"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is developed by Microsoft Corporation?",
+            "Options_En": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_En": "Windows"
+            "Question_Hi": "कौन सा ऑपरेटिंग सिस्टम माइक्रोसॉफ्ट कॉर्पोरेशन द्वारा विकसित किया गया है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_Hi": "Windows"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is primarily used on Apple iPhones and iPads?",
+            "Options_En": ["Windows", "macOS", "Linux", "iOS"],
+            "CorrectOption_En": "iOS"            
+            "Question_Hi": "किस ऑपरेटिंग सिस्टम का मुख्य रूप से एप्पल आईफोन और आईपैड पर उपयोग होता है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "iOS"],
+            "CorrectOption_Hi": "iOS"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU"
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is commonly found on servers and mainframe computers?",
+            "Options_En": ["Windows", "macOS", "Linux", "UNIX"],
+            "CorrectOption_En": "UNIX"
+            "Question_Hi": "सर्वर और मेनफ्रेम कंप्यूटर पर आमतौर पर कौन सा ऑपरेटिंग सिस्टम पाया जाता है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "UNIX"],
+            "CorrectOption_Hi": "UNIX"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is developed by Google?",
+            "Options_En": ["Windows", "Chrome OS", "Linux", "Android"],
+            "CorrectOption_En": "Android"
+            "Question_Hi": "कौन सा ऑपरेटिंग सिस्टम गूगल द्वारा विकसित किया गया है?",
+            "Options_Hi": ["Windows", "Chrome OS", "Linux", "Android"],
+            "CorrectOption_Hi": "Android"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is designed specifically for embedded systems and IoT devices?",
+            "Options_En": ["Windows", "RTOS", "Linux", "Android"],
+            "CorrectOption_En": "RTOS"            
+            "Question_Hi": "कौन सा ऑपरेटिंग सिस्टम विशेष रूप से एम्बेडेड सिस्टम और आईओटी उपकरणों के लिए डिज़ाइन किया गया है?",
+            "Options_Hi": ["Windows", "RTOS", "Linux", "Android"],
+            "CorrectOption_Hi": "RTOS"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is known for its user-friendly interface and colorful tiles?",
+            "Options_En": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_En": "Windows"           
+            "Question_Hi": "कौन सा ऑपरेटिंग सिस्टम अपने उपयोगकर्ता मित्रपूर्ण इंटरफेस और रंगीन टाइल्स के लिए जाना जाता है?",
+            "Options_Hi": ["Windows", "macOS", "Linux", "Android"],
+            "CorrectOption_Hi": "Windows"
+        },
+        {
+            "Category_Id": "UUmN8aTlTYjiROFU72LU",
+            "SubCategory_Id": "wbTg6VNE9geeBywtwExi",
+            "Question_En": "Which operating system is commonly used in smartwatches and fitness trackers?",
+            "Options_En": ["Windows", "watchOS", "Linux", "Android"],
+            "CorrectOption_En": "watchOS"
+            "Question_Hi": "स्मार्टवॉच और फिटनेस ट्रैकर में आमतौर पर कौन सा ऑपरेटिंग सिस्टम प्रयोग होता है?",
+            "Options_Hi": ["Windows", "watchOS", "Linux", "Android"],
+            "CorrectOption_Hi": "watchOS"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+//Geomrty
+{
+    "questions": [
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the sum of the interior angles of a triangle?",
+            "Options_En": [
+                "90 degrees",
+                "180 degrees",
+                "270 degrees",
+                " 360 degrees"
+            ],
+            "CorrectOption_En": "180 degrees",
+           "Question_Hi": "त्रिभुज के आंतरिक कोणों का योग क्या होता है?",
+            "Options_Hi": [
+            "90 डिग्री",
+            "180 डिग्री",
+            "270 डिग्री",
+            "360 डिग्री"
+            ],
+            "CorrectOption_Hi": "180 डिग्री"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the formula to calculate the area of a circle?",
+            "Options_En": [
+                "A = πr",
+                "A = πr^2",
+                "A = 2πr",
+                "A = 2πr^2"
+            ],
+            "CorrectOption_En": "A = πr^2",
+            "Question_Hi": "वृत्त के क्षेत्रफल की गणना करने के लिए कौन सी सूत्र इस्तेमाल की जाती है?",
+            "Options_Hi": [
+            "A = πr",
+            "A = πr^2",
+            "A = 2πr",
+            "A = 2πr^2"
+            ],
+            "CorrectOption_Hi": "A = πr^2"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the name of a polygon with seven sides?",
+            "Options_En": [
+                "Hexagon",
+                "Octagon",
+                "Heptagon",
+                "Nonagon"
+            ],
+            "CorrectOption_En": "Heptagon",
+            "Question_Hi": "सात सिरों वाले बहुभुज का नाम क्या है?",
+            "Options_Hi": [
+            "हेक्सागन",
+            "ऑक्टागन",
+            "हेप्टागन",
+            "नोनागन"
+            ],
+            "CorrectOption_Hi": "हेप्टागन"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the measure of each interior angle of a regular hexagon?",
+            "Options_En": [
+                "90 degrees",
+                "120 degrees",
+                "135 degrees",
+                "180 degrees"
+            ],
+            "CorrectOption_En": "120 degrees",
+            "Question_Hi": "एक नियमित हेक्सागन के प्रत्येक आंतरिक कोण का माप क्या होता है?",
+            "Options_Hi": [
+            "90 डिग्री",
+            "120 डिग्री",
+            "135 डिग्री",
+            "180 डिग्री"
+            ],
+            "CorrectOption_Hi": "120 डिग्री"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the formula to calculate the perimeter of a rectangle?",
+            "Options_En": [
+                " P = 2(l + w)",
+                "P = l + w",
+                "P = lw",
+                "P = 4s"
+            ],
+            "CorrectOption_En": " P = 2(l + w)",
+           "Question_Hi": "आयत के परिधि की गणना करने के लिए कौन सा सूत्र इस्तेमाल किया जाता है?",
+            "Options_Hi": [
+            "P = 2(l + w)",
+            "P = l + w",
+            "P = lw",
+            "P = 4s"
+            ],
+            "CorrectOption_Hi": "P = 2(l + w)"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the relationship between the diagonals of a rectangle?",
+            "Options_En": [
+                "They are perpendicular bisectors of each other.",
+                "They are parallel",
+                "They are equal in length.",
+                "They are congruent"
+            ],
+            "CorrectOption_En": "They are equal in length.",
+            "Question_Hi": "आयत के विपरीत बाहुओं के बीच क्या संबंध होता है?",
+            "Options_Hi": [
+            "वे एक-दूसरे के लंबकोण विभाजक होते हैं।",
+            "वे समांतर होते हैं।",
+            "वे लंबाई में समान होते हैं।",
+            "वे समान होते हैं"
+            ],
+            "CorrectOption_Hi": "वे लंबाई में समान होते हैं।"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": " What is the formula to calculate the volume of a sphere?",
+            "Options_En": [
+                " V = (4/3)πr",
+                "V = (4/3)πr^2",
+                "V = 2πr",
+                " V = (4/3)πr^3"
+            ],
+            "CorrectOption_En": " V = (4/3)πr^3",          
+            "Question_Hi": "गोला के आयाम की गणना करने के लिए कौन सा सूत्र इस्तेमाल किया जाता है?",
+            "Options_Hi": [
+            "V = (4/3)πr",
+            "V = (4/3)πr^2",
+            "V = 2πr",
+            "V = (4/3)πr^3"
+            ],
+            "CorrectOption_Hi": "V = (4/3)πr^3"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the name of a three-dimensional figure with six congruent square faces?",
+            "Options_En": [
+                "Pyramid",
+                "Cylinder",
+                "Cube",
+                "Prism"
+            ],
+            "CorrectOption_En": "Cube",
+            "Question_Hi": "छह समान वर्गों वाले त्रिआयामी आकार का नाम क्या होता है?",
+            "Options_Hi": [
+            "पिरामिड",
+            "सिलिंडर",
+            "क्यूब",
+            "प्रिज्म"
+            ],
+            "CorrectOption_Hi": "क्यूब"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the formula to calculate the area of a triangle?",
+            "Options_En": [
+                " A = lw",
+                "A = (1/2)bh",
+                "A = πr^2",
+                "A = 2πr"
+            ],
+            "CorrectOption_En": "A = (1/2)bh",          
+            "Question_Hi": "त्रिभुज के क्षेत्रफल की गणना करने के लिए कौन सा सूत्र इस्तेमाल किया जाता है?",
+            "Options_Hi": [
+            "A = lw",
+            "A = (1/2)bh",
+            "A = πr^2",
+            "A = 2πr"
+            ],
+            "CorrectOption_Hi": "A = (1/2)bh"
+        },
+        {
+            "Category_Id": "PPfSv47GNkZn3E7k8kKe",
+            "SubCategory_Id": "jUcC4nbJ0NH7Zs1IOfm8",
+            "Question_En": "What is the sum of the exterior angles of any polygon?",
+            "Options_En": [
+                "90 degrees",
+                "180 degrees",
+                "270 degrees",
+                "360 degrees"
+            ],
+            "CorrectOption_En": "360 degrees",            
+            "Question_Hi": "किसी भी बहुभुज के बाह्य कोणों का योग क्या होता है?",
+            "Options_Hi": [
+            "90 डिग्री",
+            "180 डिग्री",
+            "270 डिग्री",
+            "360 डिग्री"
+            ],
+            "CorrectOption_Hi": "360 डिग्री"
+        }
+    ]
+}
+
+

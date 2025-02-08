@@ -1,0 +1,207 @@
+//Celebrities
+{
+    "questions": [
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": "Who is known as the 'King Khan' of Bollywood?",
+            "Options_En": [
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Aamir Khan",
+                "Saif Ali Khan"
+            ],
+            "CorrectOption_En": "Shah Rukh Khan",
+            "Question_Hi": 'बॉलीवुड में "किंग खान" के रूप में प्रसिद्ध कौन है?',
+            "Options_Hi": [
+            "शाहरुख़ ख़ान",
+            "सलमान ख़ान",
+            "आमिर ख़ान",
+            "सैफ अली ख़ान"
+            ],
+            "CorrectOption_Hi": "शाहरुख़ ख़ान"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": "Which actress is often referred to as the 'Queen of Bollywood'?",
+            "Options_En": [
+                "Deepika Padukone",
+                "Kareena Kapoor Khan",
+                "Priyanka Chopra Jonas",
+                " Kangana Ranaut"
+            ],
+            "CorrectOption_En": " Kangana Ranaut",
+            "Question_Hi": 'बॉलीवुड में अक्सर "बॉलीवुड की रानी" के रूप में संदर्भित किस अभिनेत्री को कहा जाता है?',
+            "Options_Hi": [
+            "दीपिका पादुकोण",
+            "करीना कपूर खान",
+            "प्रियंका चोपड़ा जोनस",
+            "कंगना रनौत"
+            ],
+            "CorrectOption_Hi": "कंगना रनौत"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": "Who is the highest-paid actor in Bollywood?",
+            "Options_En": [
+                "Akshay Kumar",
+                "Ranveer Singh",
+                "Ranbir Kapoor",
+                "Ayushmann Khurrana"
+            ],
+            "CorrectOption_En": "Akshay Kumar",
+            "Question_Hi": "बॉलीवुड में सबसे ज्यादा भुगतान करने वाले अभिनेता कौन हैं?",
+            "Options_Hi": [
+            "अक्षय कुमार",
+            "रणवीर सिंह",
+            "रणबीर कपूर",
+            "आयुष्मान खुराना"
+            ],
+            "CorrectOption_Hi": "अक्षय कुमार"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": 'Which actor is popularly known as "Bhaijaan" in Bollywood?',
+            "Options_En": [
+                "Salman Khan",
+                "Shahid Kapoor",
+                "Hrithik Roshan",
+                "Varun Dhawan"
+            ],
+            "CorrectOption_En": " Salman Khan",
+            "Question_Hi": 'बॉलीवुड में "भैयाजान" के रूप में मशहूर कौन हैं?',
+            "Options_Hi": [
+            "सलमान खान",
+            "शाहिद कपूर",
+            "ह्रिथिक रोशन",
+            "वरुण धवन"
+            ],
+            "CorrectOption_Hi": "सलमान खान"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": "Who is the most followed Indian celebrity on Instagram?",
+            "Options_En": [
+                "Priyanka Chopra Jonas",
+                "Deepika Padukone",
+                "Alia Bhatt",
+                "Virat Kohli"
+            ],
+            "CorrectOption_En": "Deepika Padukone",
+            "Question_Hi": "इंस्टाग्राम पर सबसे ज्यादा फॉलोअर्स वाले भारतीय सेलिब्रिटी कौन हैं?",
+            "Options_Hi": [
+            "प्रियंका चोपड़ा जोनस",
+            "दीपिका पादुकोण",
+            "आलिया भट्ट",
+            "विराट कोहली"
+            ],
+            "CorrectOption_Hi": "दीपिका पादुकोण"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": 'Who is the actor known for his portrayal of the character "Bajrangi" in the film "Bajrangi Bhaijaan"?',
+            "Options_En": [
+                "Salman Khan",
+                "Shah Rukh Khan",
+                "Aamir Khan",
+                "Akshay Kumar"
+            ],
+            "CorrectOption_En": "Salman Khan",
+            "Question_Hi": 'फिल्म "बजरंगी भाईजान" में अपने किरदार "बजरंगी" के लिए प्रसिद्ध अभिनेता कौन हैं?',
+            "Options_Hi": [
+            "सलमान खान",
+            "शाहरुख़ ख़ान",
+            "आमिर ख़ान",
+            "अक्षय कुमार"
+            ],
+            "CorrectOption_Hi": "सलमान खान"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": 'Which actress made her Bollywood debut with the film "Dilwale Dulhania Le Jayenge"?',
+            "Options_En": [
+                "Kajol",
+                "Priyanka Chopra Jonas",
+                "Karisma Kapoor",
+                "Rani Mukerji"
+            ],
+            "CorrectOption_En": "Kajol",
+            "Question_Hi": 'कौन सी अभिनेता ने फिल्म "दिलवाले दुल्हनिया ले जाएंगे" के साथ अपना बॉलीवुड डेब्यू किया?',
+            "Options_Hi": [
+            "काजोल",
+            "प्रियंका चोपड़ा जोनस",
+            "करिश्मा कपूर",
+            "रानी मुखर्जी"
+            ],
+            "CorrectOption_Hi": "काजोल"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": 'Who is the actor known as the "Greek God of Bollywood"?',
+            "Options_En": [
+                "Hrithik Roshan",
+                "Tiger Shroff",
+                "Ranbir Kapoor",
+                "Sidharth Malhotra"
+            ],
+            "CorrectOption_En": "Hrithik Roshan",
+            "Question_Hi": 'वे कौन से अभिनेता हैं जिन्हें "बॉलीवुड के ग्रीक देवता" के रूप में जाना जाता है?',
+            "Options_Hi": [
+            "ह्रिथिक रोशन",
+            "टाइगर श्रॉफ",
+            "रणबीर कपूर",
+            "सिद्धार्थ मल्होत्रा"
+            ],
+            "CorrectOption_Hi": "ह्रिथिक रोशन"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": "Which actress is the daughter of renowned actor Shakti Kapoor?",
+            "Options_En": [
+                "Shraddha Kapoor",
+                "Alia Bhatt",
+                "Sonakshi Sinha",
+                "Anushka Sharma"
+            ],
+            "CorrectOption_En": "Shraddha Kapoor",
+            "Question_Hi": "मशहूर अभिनेता शक्ति कपूर की कौन सी अभिनेत्री हैं?",
+            "Options_Hi": [
+            "श्रद्धा कपूर",
+            "आलिया भट्ट",
+            "सोनाक्षी सिन्हा",
+            "अनुष्का शर्मा"
+            ],
+            "CorrectOption_Hi": "श्रद्धा कपूर"
+        },
+        {
+            "Category_Id":"R6dCoTnV9USvQDkLqbMZ",
+            "SubCategory_Id":"i8Qp4EePgAcYzLh8RS2N"
+            "Question_En": 'Who is the actor known for his portrayal of the character "Munna Bhai" in the film series "Munna Bhai MBBS"?',
+            "Options_En": [
+                "Sanjay Dutt",
+                "Shahid Kapoor",
+                "Ranveer Singh",
+                "Arjun Kapoor"
+            ],
+            "CorrectOption_En": "Sanjay Dutt",
+            "Question_Hi": 'फिल्म श्रृंखला "मुन्ना भाई एमबीबीएस" में "मुन्ना भाई" के किरदार के लिए प्रसिद्ध अभिनेता कौन है?',
+            "Options_Hi": [
+            "संजय दत्त",
+            "शाहिद कपूर",
+            "रणवीर सिंग",
+            "अर्जुन कपूर"
+            ],
+            "CorrectOption_Hi": "संजय दत्त"
+        }
+    ]
+}
+
+
