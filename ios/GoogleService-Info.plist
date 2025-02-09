@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>140075309012-igqds9r7j90e8faashvnn7sigrnamje1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.140075309012-igqds9r7j90e8faashvnn7sigrnamje1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>140075309012-0cde79b8hru7ufncq7lo6rp332j3efob.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAy7_E7uKkWXRIWmBBlh91e3WqMJcvDf7s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>140075309012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.catechism</string>
+	<key>PROJECT_ID</key>
+	<string>project-e605b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-e605b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:140075309012:ios:582451c1abf6d16e9fa841</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-e605b.firebaseio.com</string>
+</dict>
+</plist>
