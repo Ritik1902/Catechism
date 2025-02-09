@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "762199644363",
+    "project_id": "catechism-5c31b",
+    "storage_bucket": "catechism-5c31b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762199644363:android:9c838c065a348b8704e34e",
+        "android_client_info": {
+          "package_name": "com.app.catechism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHYVHj5HHEIt9R3zSCuGa4fpo7V2UG9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762199644363-1drllfce6tke3c08p0p7gktit2ea8nbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762199644363-ev7lukcbm5v6jhp6ge28b0m87o3dguja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.catechism"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
